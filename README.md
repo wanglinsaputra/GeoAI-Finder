@@ -197,3 +197,5 @@ pnpm dev
 This project is licensed under the [MIT License](LICENSE).
 | AI | GEMINI API — gemini-2.5-flash |
 | EXIF | exifr |
+
+> **Disclaimer:** AI-generated geolocation results are estimates and should not be used as the sole basis for legal, security, emergency, or other critical decisions.
